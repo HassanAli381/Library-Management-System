@@ -5,12 +5,12 @@ Console Application Using C++
 * I Used Built-In Data Structurs.
 
 * This App has Some Features Like 
- 1- Adding A Book To Library
- 2- Search For a book (Simple Search Engine)
- 3- Print Users Boorrowd Book by name 
- 4- Print Library Books Sorted by name 
- 5- Print Library Books Sorted by Book Id 
- 6- Add User To Library
- 7- User Want to Borrow a book
- 8- User Want to Return a book
- 9- Print Users
+  - Adding A Book To Library
+  - Search For a book (Simple Search Engine)
+  - Print Users Boorrowd Book by name 
+  - Print Library Books Sorted by name 
+  - Print Library Books Sorted by Book Id 
+  - Add User To Library
+  - User Want to Borrow a book
+  - User Want to Return a book
+  - Print Users
